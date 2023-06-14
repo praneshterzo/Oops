@@ -5,7 +5,7 @@ public class operations extends Main {
         this.b=b;
     }
     public int sub() {
-        return a - b;
+        return a -b;
     }
 
 }

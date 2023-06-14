@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class inherit {
     public static void main(String[] args) {
 
-        int x, y;
+        int x,y;
         int sum;
         Scanner sc = new Scanner(System.in);
         System.out.print("Number 1:");
