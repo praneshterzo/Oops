@@ -32,7 +32,7 @@ class Student {
 
     public static void main(String[] args) {
         Student Daniel = new Student("Daniel", 20,"nowhere");
-        Daniel.setName("Pranesh");
+        Daniel.setName("Pranesh") ;
         Daniel.setAge(15);
         System.out.println(Daniel.getName());
         System.out.println(Daniel.toString());;
