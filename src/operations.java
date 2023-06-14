@@ -1,11 +1,23 @@
-public class operations extends Main {
-    public operations(int a,int b){
-        super(a,b);
-        this.a=a;
-        this.b=b;
-    }
-    public int sub() {
-        return a -b;
+class Bike implements MountainBike {
+    int initialSpeed;
+    int initialGear;
+
+    public Bike(int initialSpeed, int initialGear, int height){
+
+        this.initialGear=initialGear;
+        this.initialSpeed=initialSpeed;
+
     }
 
+    public void applyBrake(int decrement){
+        initialSpeed-=decrement;
+    }
+    @Override
+    public void speedUp(int increment){
+        initialSpeed+=increment;
+    }
+
+    public int getSpeed() {
+        return initialSpeed;
+    }
 }
