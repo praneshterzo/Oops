@@ -1,4 +1,4 @@
-class Bike implements MountainBike {
+class Bike{
     int initialSpeed;
     int initialGear;
 
