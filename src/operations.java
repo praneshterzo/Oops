@@ -1,5 +1,5 @@
 class Bike{
-    int initialSpeed;
+    int initialSpeed ;
     int initialGear;
 
     public Bike(int initialSpeed, int initialGear, int height){

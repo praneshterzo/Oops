@@ -2,7 +2,7 @@
 abstract class pranesh{
     abstract void name();
 
-    public void type(){
+    public void type() {
         System.out.print("Employee");
     }
 }

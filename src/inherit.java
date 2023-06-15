@@ -1,8 +1,4 @@
 public class inherit {
-
-    // It is a process of binding data into a single unit.
-    // Class is an example of encapsulation . It wraps all the data members and functions into one unit.
-
     private int studentAge;
 
     private String studentName;
