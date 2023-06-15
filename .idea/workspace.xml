@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="323801a2-21b2-4e07-a093-65cee6b365b4" name="Changes" comment="commit6">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inherit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inherit.java" afterDir="false" />
+    <list default="true" id="323801a2-21b2-4e07-a093-65cee6b365b4" name="Changes" comment="commit7">
+      <change afterPath="$PROJECT_DIR$/src/Add.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Divide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multiply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Subtract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inherit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/readinput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operate.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +77,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1686740784188</updated>
-      <workItem from="1686740785192" duration="5366000" />
+      <workItem from="1686740785192" duration="8995000" />
     </task>
     <task id="LOCAL-00001" summary="com">
       <created>1686740997936</created>
@@ -144,7 +149,21 @@
       <option name="project" value="LOCAL" />
       <updated>1686804939779</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="commit7">
+      <created>1686805400227</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1686805400227</updated>
+    </task>
+    <task id="LOCAL-00012" summary="commit7">
+      <created>1686805449212</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1686805449212</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,6 +176,7 @@
     <MESSAGE value="commit4" />
     <MESSAGE value="commit5" />
     <MESSAGE value="commit6" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit6" />
+    <MESSAGE value="commit7" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit7" />
   </component>
 </project>
